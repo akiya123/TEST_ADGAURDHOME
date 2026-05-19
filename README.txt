@@ -7,4 +7,5 @@
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
-||ambience.com.vn^
+! —— Danh sách chặn tên miền tùy chỉnh ——
+||6789.show^
