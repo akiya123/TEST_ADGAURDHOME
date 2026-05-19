@@ -7,4 +7,4 @@
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
-||https://ambience.com.vn/^
+||ambience.com.vn^
