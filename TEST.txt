@@ -1,0 +1,2 @@
+! —— Danh sách chặn tên miền tùy chỉnh ——
+||6789.show^
